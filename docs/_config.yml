@@ -1,0 +1,22 @@
+theme: minima
+markdown: kramdown
+
+title: Fast Whole-body Collision-free Motion Planning
+author: "johannes.tenhumberg@tum.de"
+
+header_pages:
+  - index.md
+  - _pages/humanoids23.md
+  - _pages/iros22.md
+  - _pages/aidx-lab.md
+
+include:
+    - _pages
+    
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+    - .gitignore
+    - Gemfile
+    - README.md
