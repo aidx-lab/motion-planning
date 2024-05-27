@@ -1,6 +1,6 @@
 ---
-permalink: /humanoids2021
+permalink: /iros22
 layout: redirect
-title: Humanoids21
+title: IROS22
 redirect_to: https://aidx-lab.org/2022-iros-planning/
 ---
